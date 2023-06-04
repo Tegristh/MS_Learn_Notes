@@ -1,6 +1,6 @@
 # Sécuriser l'accès à vos applications à l'aide des services d'identité Azure
 
-[https://learn.microsoft.com/fr-fr/training/modules/secure-access-azure-identity-services/](Cours complet Microsoft)
+[cour complet site de microsoft](https://learn.microsoft.com/fr-fr/training/modules/secure-access-azure-identity-services/)
 
 ## Enjeux: 
 

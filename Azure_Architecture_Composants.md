@@ -1,5 +1,7 @@
 # Vue d'ensemble des abonnements, groupes d'adiminstration et ressources Azure
-[https://learn.microsoft.com/fr-fr/training/modules/azure-architecture-fundamentals/](Le cours complet en ligne)
+
+[cour complet site de microsoft](https://learn.microsoft.com/fr-fr/training/modules/azure-architecture-fundamentals/)
+
 
 ## Hierarchie d'organisation des niveaux de ressources
 

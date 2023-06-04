@@ -1,6 +1,6 @@
 # Framework d’adoption du cloud Microsoft pour Azure
 
-[https://learn.microsoft.com/fr-fr/training/modules/microsoft-cloud-adoption-framework-for-azure/](Lien vers le cours complet Microsoft)
+[cour complet site de microsoft](https://learn.microsoft.com/fr-fr/training/modules/microsoft-cloud-adoption-framework-for-azure/)
 
 
 ## Qu'y a-t-il dans le Cloud Adoption Framework?

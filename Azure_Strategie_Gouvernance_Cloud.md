@@ -1,6 +1,7 @@
 # Créer une stratégie de gouvernance cloud sur Azure
 
-[https://learn.microsoft.com/fr-fr/training/modules/build-cloud-governance-strategy-azure/](Lien du Cours complet MS_Learn)
+[cour complet site de microsoft](https://learn.microsoft.com/fr-fr/training/modules/build-cloud-governance-strategy-azure/)
+
 
 ## Contrôlez l'accès aux ressources cloud en utilisant le contrôle d'accès basé sur les rôles Azure
 

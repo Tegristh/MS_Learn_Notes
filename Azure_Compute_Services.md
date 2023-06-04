@@ -1,6 +1,6 @@
 # Découvrir Azure Compute Services
 
-[https://learn.microsoft.com/fr-fr/training/modules/azure-compute-fundamentals/](Cours complet Microsoft)
+[cour complet site de microsoft](https://learn.microsoft.com/fr-fr/training/modules/azure-compute-fundamentals/)
 
 
 ## Vue d'ensemble d'Azure Compute Services
